@@ -1,0 +1,58 @@
+img{
+    height: 100px;
+    width: 100px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255,0,0);
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
+
+label{
+    color: red;
+}
+
+div{
+    padding-bottom: 10px;
+}
+/* # e utilizado para id */
+#especial{
+    text-align: right;
+    color: red;
+}
+.entrada{
+    width: 300px;
+}
+img{
+    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-left: 10;
+    padding-right: 10;
+}
+a{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+a::marker{
+    color: #00f;
+}
+a:link{
+    color: #00f;
+}
+
+.enter{
+    margin-right: 30px;
+}
+.apagar{
+    margin-left: 30px;
+}
