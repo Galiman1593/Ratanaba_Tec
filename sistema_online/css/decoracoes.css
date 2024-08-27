@@ -7,3 +7,6 @@ a{
 .btn-alterar{
     background-color: #00ff00;
 }
+.btn-primary{
+    background-color: rgb(113, 113, 248) !important ;
+}
